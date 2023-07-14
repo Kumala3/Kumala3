@@ -31,7 +31,7 @@ I study in parallel with C++ and <a href="https://git-scm.com/" title="Git"><img
 Socials:
 
 <p align="center">
-  <a href="https://github.com/peterthehan">
+  <a href="https://github.com/Kumala3">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img alt="GitHub" title="GitHub" height="40" width="40" src="https://cdn.simpleicons.org/github"></picture></a>
