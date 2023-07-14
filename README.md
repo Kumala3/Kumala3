@@ -13,9 +13,9 @@ I study in parallel with ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b
 
 *Technology stack:*
 
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" width="50" height="50" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png"  width="50" height="50" /></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png"  width="50" height="50" /></a>
 <a href="(https://www.djangoproject.com)" title="Django"><img src="изображение_2023-07-14_150049617" /></a>
 
 ---
