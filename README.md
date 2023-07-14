@@ -16,7 +16,7 @@ I study in parallel with C++ and <a href="https://git-scm.com/" title="Git"><img
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="[https://www.mysql.com/](https://www.djangoproject.com)" title="Django"><img src="изображение_2023-07-14_150049617" /></a>
+<a href="(https://www.djangoproject.com)" title="Django"><img src="изображение_2023-07-14_150049617" /></a>
 
 ---
 
@@ -34,7 +34,7 @@ I study in parallel with C++ and <a href="https://git-scm.com/" title="Git"><img
 
 ---
 
-Socials:
+<h2 align="center">Socials:</h2>
 
 <p align="center">
   <a href="https://github.com/Kumala3">
@@ -44,5 +44,5 @@ Socials:
 
 </p>
 
-[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/21136411/kumala3)
+  [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="80" />](https://stackoverflow.com/users/21136411/kumala3)
 
