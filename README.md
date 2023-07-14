@@ -10,18 +10,19 @@ about 2 months in which I tried myself in different directions such as: <a href=
 I study in parallel with C++ and <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 ---
 
-*Currently working with:*
+*Technology stack:*
 
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+<a href="[https://www.mysql.com/](https://www.djangoproject.com)" title="Django"><img src="icons/mysql.png" /></a>
 
 
 ----
 
 - 🔭 I’m currently working on my own project.
 - 🌱 I’m currently learning Django and Asyncio.
-- 📫 How to reach me:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='25'>](https://t.me/Supermario3)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:smokejrhd@gmail.com)
+- 📫 How to reach me:  [![Telegram Badge](https://img.shields.io/badge/-Supermario3-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Supermario3)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:smokejrhd@gmail.com)
 
 ---
 
