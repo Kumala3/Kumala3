@@ -28,6 +28,12 @@ I study in parallel with C++ and <a href="https://git-scm.com/" title="Git"><img
 
 ---
 
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/Kumala3/badges/large)
+
+---
+
 Socials:
 
 <p align="center">
