@@ -36,13 +36,5 @@ I study in parallel with C++ and <a href="https://git-scm.com/" title="Git"><img
 
 <h2 align="center">Socials:</h2>
 
-<p align="center">
-  <a href="https://github.com/Kumala3">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="60" width="60" src="https://cdn.simpleicons.org/github"></picture></a>
-
-</p>
-
   [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="80" />](https://stackoverflow.com/users/21136411/kumala3)
 
