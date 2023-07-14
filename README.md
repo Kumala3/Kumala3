@@ -40,7 +40,7 @@ Socials:
   <a href="https://github.com/Kumala3">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="40" width="40" src="https://cdn.simpleicons.org/github"></picture></a>
+      <img alt="GitHub" title="GitHub" height="60" width="60" src="https://cdn.simpleicons.org/github"></picture></a>
 
 </p>
 
