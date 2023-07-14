@@ -3,12 +3,18 @@
 ### :man_technologist: About me:
 
 I am a self-taught programmer, so I learn everything and achieve it myself.I had a gap
-about 2 months in which I tried myself in different directions such as: PHP, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png, RUBY, GOLANG
-I study in parallel with C++ and GIT
+about 2 months in which I tried myself in different directions such as: <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
+, <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+, <a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
+
+I study in parallel with C++ and <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 | --------------------------------------------------------------------------------------------------------------------------------------|
 **Currently working with:**
 
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+
 
 | --------------------------------------------------------------------------------------------------------------------------------------|
 
