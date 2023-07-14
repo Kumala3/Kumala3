@@ -9,7 +9,8 @@ about 2 months in which I tried myself in different directions such as: <a href=
 
 I study in parallel with C++ and <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 | --------------------------------------------------------------------------------------------------------------------------------------|
-**Currently working with:**
+
+*Currently working with:*
 
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
