@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi there👋</b></h1>
 
-### My name is Kostek Sytnyk
+### My name is Kostek
 
 I am a self-taught programmer, so I learn everything and achieve it myself.  
 I believe that once I'll change the world with other software engineers.
