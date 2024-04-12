@@ -1,26 +1,21 @@
-<h1 align="center"><b>Hi there👋</b></h1>
+<h1 align="left"><b>Hi there, I👋</b></h1>
 
-### My name is Kostek
-
-I am a self-taught programmer, so I learn everything and achieve it myself.  
-I believe that once I'll change the world with other software engineers.
-
-
-
-<a href="https://github.com/Kumala3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumala3&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+I'm passionate about Full-Stack proccess of developing amazing software with other developers!
 
 <a href="https://github.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kumala3&hide_border=true&count_private=true&show_icons=true&theme=radical">
 </a>
 
-📫 How to reach me:  
-[![Telegram Badge](https://img.shields.io/badge/-Supermario3-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Supermario3)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:smokejrhd@gmail.com)
+<h2>📫 How to reach me:</h1>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="35" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+</div>
+
+###
 
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Kumala3/badges/large)
 
----
