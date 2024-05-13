@@ -1,6 +1,11 @@
 <h1 align="left"><b>Hi there, I👋</b></h1>
 
-I'm passionate about Full-Stack proccess of developing amazing software with other developers!
+👨‍💻 I'm passionate about Full-Stack proccess of developing amazing software with other developers!
+
+🌊 I'm currently working on SynapseFlow project.
+
+🎓 I'm studying at High School Diploma majoring in Computer Science.
+
 
 <a href="https://github.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kumala3&hide_border=true&count_private=true&show_icons=true&theme=radical">
@@ -19,8 +24,6 @@ I'm passionate about Full-Stack proccess of developing amazing software with oth
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
 
 ### 💻 Codewars:
 
