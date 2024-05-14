@@ -6,10 +6,17 @@
 
 🎓 I'm studying at High School Diploma majoring in Computer Science.
 
-
 <a href="https://github.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kumala3&hide_border=true&count_private=true&show_icons=true&theme=radical">
 </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kumala3/Kumala3/pull/new/output
+  github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kumala3/Kumala3/pull/new/output
+  github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Kumala3/Kumala3/pull/new/outputgithub-contribution-grid-snake.svg">
+</picture>
 
 <h2>📫 How to reach me:</h1>
 <div align="left">
@@ -25,7 +32,6 @@
   </a>
 </div>
 
-### 💻 Codewars:
+### 💻 Codewars
 
 ![codewars](https://www.codewars.com/users/Kumala3/badges/large)
-
