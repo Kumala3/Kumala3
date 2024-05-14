@@ -10,11 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kumala3&hide_border=true&count_private=true&show_icons=true&theme=radical">
 </a>
 
-<picture>
-  <img src="https://github.com/Kumala3/Kumala3/blob/output/github-contribution-grid-snake-dark.svg" alt="grid-snake-dark" />
-
-  <img src="https://github.com/Kumala3/Kumala3/blob/output/github-contribution-grid-snake-light.svg" alt="grid-snake-light" />
-</picture>
+![snake svg](https://github.com/Kumala3/Kumala3/blob/output/github-contribution-grid-snake-dark.svg)
 
 <h2>📫 How to reach me:</h1>
 <div align="left">
