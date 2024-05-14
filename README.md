@@ -11,11 +11,9 @@
 </a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kumala3/Kumala3/pull/new/output
-  github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kumala3/Kumala3/pull/new/output
-  github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/Kumala3/Kumala3/pull/new/outputgithub-contribution-grid-snake.svg">
+  <img src="https://github.com/Kumala3/Kumala3/blob/output/github-contribution-grid-snake-dark.svg" alt="grid-snake-dark" />
+
+  <img src="https://github.com/Kumala3/Kumala3/blob/output/github-contribution-grid-snake-light.svg" alt="grid-snake-light" />
 </picture>
 
 <h2>📫 How to reach me:</h1>
