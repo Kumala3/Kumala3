@@ -20,3 +20,9 @@ jobs:
           github_user_name: Kumala3
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Set up directory
+        run: mkdir -p ./dist
+
+      - name: Move generated SVG to the directory
+        run: mv ./github-contribution-grid-snake-dark.svg ./dist/
