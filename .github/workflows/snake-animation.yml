@@ -18,14 +18,5 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Kumala3
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: List output files
-        run: ls -l ./dist/
-
-      - name: Move generated SVG to the directory
-        if: ${{ success() }}
-        run: |
-          mkdir -p ./dist
-          mv ./dist/github-contribution-grid-snake-dark.svg ./dist/
-          ls -l ./dist/
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
