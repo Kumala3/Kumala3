@@ -2,9 +2,11 @@
 
 👨‍💻 I'm passionate about Full-Stack proccess of developing amazing software with other developers!
 
-🌊 I'm currently working on SynapseFlow project.
+🌊 I'm currently working on **SynapseFlow** project.
 
-🎓 I'm studying at High School Diploma majoring in Computer Science.
+🎓 I'm studying at High School Diploma majoring in **Computer Science**.
+
+🚀 Currently enrolling in **IBM Full Stack Software Developer Professional Certificate** 
 
 <a href="https://github.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kumala3&hide_border=true&count_private=true&show_icons=true&theme=radical">
