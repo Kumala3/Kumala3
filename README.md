@@ -1,21 +1,23 @@
-<h1 align="left"><b>Hi there, I👋</b></h1>
+🤝🏼 I'm open to **collaboration** and excited to explore new **opportunities** and adventures!
 
-👨‍💻 I'm passionate about Full-Stack proccess of developing amazing software with other developers!
+👨‍💻 I'm an **Open-Source** and deep **AI** enthusiast with a strong passion for both Frontend & Backend
 
-🌊 I'm currently working on **SynapseFlow** project.
+🎓 I'm studying at High School Diploma majoring in **Computer Science**
 
-🎓 I'm studying at High School Diploma majoring in **Computer Science**.
+🚀 Currently enrolling in **IBM Full Stack Software Developer Professional Certificate**
 
-🚀 Currently enrolling in **IBM Full Stack Software Developer Professional Certificate** 
+<br/>
+<div align=center>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kumala3&theme=2077" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumala3&layout=compact&theme=tokyonight&langs_count=8"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=Kumala3&hide_border=true&count_private=true&show_icons=true&theme=radical">
+  <img src="https://github.com/Kumala3/Kumala3/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
-<a href="https://github.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kumala3&hide_border=true&count_private=true&show_icons=true&theme=radical">
-</a>
-
-![snake svg](https://github.com/Kumala3/Kumala3/blob/output/github-contribution-grid-snake-dark.svg)
-
-<h2>📫 How to reach me:</h1>
-<div align="left">
+<h2 align="center">📫 How to reach me:</h1>
+<div align="center">
   <a href="https://www.linkedin.com/in/kostek-sytnyk/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"
     />
@@ -28,6 +30,3 @@
   </a>
 </div>
 
-### 💻 Codewars
-
-![codewars](https://www.codewars.com/users/Kumala3/badges/large)
