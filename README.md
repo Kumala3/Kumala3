@@ -12,7 +12,7 @@
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumala3&layout=compact&theme=tokyonight&langs_count=8"/>
-  <img  src="https://github-readme-stats.vercel.app/api?username=Kumala3&hide_border=true&count_private=true&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kumala3&count_private=true&show_icons=true&theme=radical&hide=contribs&show=prs_merged&bg_color=141321&hide_border=true&ring_color=00ffc8&title_color=ff0055&card_width=350&text_color=03d8f3">
   <img src="https://github.com/Kumala3/Kumala3/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
