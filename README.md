@@ -4,7 +4,7 @@
 
 🎓 I'm studying at High School Diploma majoring in **Computer Science**
 
-🚀 Currently enrolling in **IBM Full Stack Software Developer Professional Certificate**
+🚀 Currently Developing **EcoBuddy** project.
 
 <br/>
 <div align=center>
