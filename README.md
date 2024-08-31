@@ -6,7 +6,7 @@
 
 🚀 GenAI pioneer at the 2024 GenAI pioneer program, Tech Lead at **EcoBuddy**, and content creator at the AI Advantage Community.
 
-Fun Fact: 
+😆 Fun Fact: Even though I am a computer worm, I still find some time to stay in a good shape and read the email.
 
 <br/>
 <div align=center>
