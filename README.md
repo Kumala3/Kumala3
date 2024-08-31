@@ -1,6 +1,6 @@
 🤝🏼 I'm open to **collaboration** and excited to explore new **opportunities** and adventures!
 
-👨‍💻 I'm an **Open-Source** and deep **AI** enthusiast with a strong passion for both Frontend & Backend
+👨‍💻 I'm an **AI** enthusiast and passionate about "Open-Source" projects with a strong passion for both Frontend & Backend
 
 🎓 I'm studying at High School Diploma majoring in **Computer Science**
 
