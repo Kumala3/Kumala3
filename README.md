@@ -6,6 +6,8 @@
 
 🚀 GenAI pioneer at the 2024 GenAI pioneer program, Tech Lead at **EcoBuddy**, and content creator at the AI Advantage Community.
 
+Fun Fact: 
+
 <br/>
 <div align=center>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kumala3&theme=2077" />
