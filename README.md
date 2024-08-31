@@ -2,9 +2,9 @@
 
 👨‍💻 I'm an **AI** enthusiast and passionate about "Open-Source" projects with a strong passion for both Frontend & Backend
 
-🎓 I'm studying at High School Diploma majoring in **Computer Science**
+🎓 Currently, studying at High School, majoring in **Computer Science**
 
-🚀 Currently Developing **EcoBuddy** project.
+🚀 GenAI pioneer at the 2024 GenAI pioneer program, Tech Lead at **EcoBuddy**, and content creator at the AI Advantage Community.
 
 <br/>
 <div align=center>
