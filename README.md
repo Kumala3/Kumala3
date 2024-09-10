@@ -1,8 +1,8 @@
 🤝🏼 I'm open to **collaboration** and excited to explore new **opportunities** and adventures!
 
-👨‍💻 I'm an **AI** enthusiast and passionate about "Open-Source" projects with a strong passion for both Frontend & Backend
+👨‍💻 I'm an **AI** enthusiast and passionate about "Open-Source" projects with a strong passion for both Frontend & Backend.
 
-🎓 Currently, studying at High School, majoring in **Computer Science**
+🎓 Currently, studying at High School, majoring in **Computer Science**.
 
 🚀 GenAI pioneer at the 2024 GenAI pioneer program, Developer at **EcoBuddy**, and content creator at the AI Advantage Community.
 
