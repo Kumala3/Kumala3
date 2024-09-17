@@ -4,7 +4,7 @@
 
 🎓 Currently, studying at High School, majoring in **Computer Science**.
 
-🚀 GenAI pioneer at the 2024 GenAI pioneer program, Developer at **EcoBuddy**, and content creator at the AI Advantage Community.
+🚀 GenAI pioneer at the **GenAI Pioneer Beta**, Full-Stack Developer at **EcoBuddy**, and content creator at the AI Advantage Community.
 
 😆 Fun Fact: Even though I am a computer worm, I still find some time to stay in a good shape and read the email.
 
