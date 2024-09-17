@@ -1,6 +1,6 @@
 🤝🏼 I'm open to **collaboration** and excited to explore new **opportunities** and adventures!
 
-👨‍💻 I'm an **AI** enthusiast and passionate about "Open-Source" projects.
+👨‍💻 I'm an **AI** enthusiast and passionate about <strong>Open-Source</strong> projects.
 
 🎓 Currently, studying at High School, majoring in **Computer Science**.
 
