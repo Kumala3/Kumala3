@@ -1,6 +1,6 @@
 🤝🏼 I'm open to **collaboration** and excited to explore new **opportunities** and adventures!
 
-👨‍💻 I'm a passionate "Developer" and AI enthusiast.
+👨‍💻 I'm a passionate guy who loves building stuff.
 
 🎓 Currently, studying at High School, majoring in **Computer Science**.
 
