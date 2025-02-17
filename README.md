@@ -6,7 +6,7 @@
 
 🚀 GenAI pioneer at the **GenAI Pioneer Program**, Full-Stack Developer at **EcoBuddy**, and content creator at the AI Advantage Community.
 
-😆 Fun Fact: Even though I am a computer worm, I still find some time to stay in good shape and read the email.
+😆 Random Fact: In the free time you can helping sister cooking some bakery, because I am a big lover!
 
 <br/>
 <div align=center>
