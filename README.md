@@ -1,12 +1,12 @@
-🤝🏼 I'm open to **collaboration** and excited to explore new **opportunities** and adventures!
+🤝🏼 I'm open to fascinating collaborations and exploring new opportunities!
 
-👨‍💻 I'm a passionate guy who loves building stuff.
+👨‍💻 I'm a passionate guy with a love of building real-world technology that makes a difference.
 
-🎓 Currently, studying at High School, majoring in **Computer Science**.
+🎓 CS student at High School.
 
-🚀 GenAI pioneer at the **GenAI Pioneer Program**, Enthusiastic Developer working on several initiatives, and content creator at the AI Advantage Community.
+🚀 AI Researcher at AI Advantage, Full-Stack Developer on cool initiatives.
 
-😆 Random Fact: In the free time you can helping sister cooking some bakery, because I am a big lover!
+😆 Fun Fact: In the free time, you might find me on the pull-up bar trying to beat my hanging record or doing gardening.
 
 <br/>
 <div align=center>
