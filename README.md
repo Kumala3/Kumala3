@@ -1,12 +1,12 @@
-🤝🏼 I'm open to fascinating collaborations and exploring new opportunities!
+🤝🏼 I'm open to cool collaborations and always looking forward to exploring new opportunities
 
-👨‍💻 I'm a passionate guy with a love of building real-world technology that makes a difference.
+👨‍💻 I'm a passionate programmer with a love of building real-world projects that make a difference
 
-🎓 CS student at High School.
+🏛️ I am currently working on VersaEpoch, a centralized platform to learn ChatGPT, Claude, Gemini evolution and more about AI
 
-🚀 AI Researcher at AI Advantage, Full-Stack Developer on cool initiatives.
+🔎 AI Researcher, Content Creator at AI Advantage 
 
-😆 Fun Fact: In the free time, you might find me on the pull-up bar trying to beat my hanging record or doing gardening.
+😆 Fun Fact: In my free time, you might find me on the pull-up bar trying to beat my hanging record or doing gardening
 
 <br/>
 <div align=center>
