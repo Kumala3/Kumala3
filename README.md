@@ -1,10 +1,10 @@
-🤝🏼 I'm open to cool collaborations and always looking forward to exploring new opportunities
+🤝🏼 I'm open to cool collaborations and meeting passionate people
 
-👨‍💻 I'm a passionate programmer with a love of building real-world projects that make a difference
+👨‍💻 I'm a passionate CS student with a passion for creating projects that solve real-world problems to make a difference
 
-🏛️ I am currently working on VersaEpoch, a centralized platform to learn ChatGPT, Claude, Gemini evolution and more about AI
+🟢 I am currently working on VersaEpoch - The home for AI Management to stay focused, organized, and productive for individuals and teams
 
-🔎 AI Researcher, Content Creator at AI Advantage 
+🔎 GenAI Educator & Content Creator at AI Advantage 
 
 😆 Fun Fact: In my free time, you might find me on the pull-up bar trying to beat my hanging record or doing gardening
 
