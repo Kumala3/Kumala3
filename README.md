@@ -4,7 +4,7 @@
 
 🔎 Founder of VersunoAI and GenAI Educator & Content Creator at AI Advantage 
 
-😆 Fun Fact: I am on a mission to complete 1000 pull ups 
+😆 Fun Fact: I am on a mission to complete 1000 pull ups in less than 24 hours
 
 <br/>
 <div align=center>
