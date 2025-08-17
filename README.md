@@ -1,10 +1,10 @@
-🤝🏼 I'm open to cool collaborations and meeting passionate people
+🤝🏼 I'm open to exciting collaborations and meeting passionate people
 
-👨‍💻 I'm a passionate CS student with a passion for creating projects that solve real-world problems to make a difference
+👨‍💻 I'm creating [VersunoAI](https://versuno.ai) to solve the problem of scattered and inefficient AI Assets Management  
 
-🔎 GenAI Educator & Content Creator at AI Advantage 
+🔎 Founder of VersunoAI and GenAI Educator & Content Creator at AI Advantage 
 
-😆 Fun Fact: In my free time, you might find me on the pull-up bar trying to beat my hanging record or doing gardening
+😆 Fun Fact: I am on a mission to complete 1000 pull ups 
 
 <br/>
 <div align=center>
