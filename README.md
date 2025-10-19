@@ -1,10 +1,10 @@
-🤝🏼 I'm open to exciting collaborations and meeting passionate people
+🤝🏼 I'm open to collaborations and meeting passionate people
 
-👨‍💻 Building [VersunoAI](https://versuno.ai) solving the problem of scattered and inefficient AI Assets Management  
+👨‍💻 Building [VersunoAI](https://versuno.ai) - solving the problem of scattered and inefficient AI Assets Management  
 
 🔎 Founder of VersunoAI and GenAI Educator & Content Creator at AI Advantage 
 
-😆 Fun Fact: I am on a mission to complete 1000 pull ups in less than 24 hours
+😆 Fun Fact: I am on a mission to complete 1000 pull-ups in less than 24 hours
 
 <br/>
 <div align=center>
