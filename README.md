@@ -1,6 +1,6 @@
 🤝🏼 I'm open to collaborations and meeting passionate people
 
-👨‍💻 Building [VersunoAI](https://versuno.ai) - solving the problem of scattered and inefficient AI Assets Management  
+👨‍💻 Building [Versuno](https://versuno.ai) - the all-in-one platform for unified AI Assets Management solving the problem of scattered and inefficient AI Assets Management  
 
 🔎 Founder of VersunoAI and GenAI Educator & Content Creator at AI Advantage 
 
