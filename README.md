@@ -1,8 +1,6 @@
 🤝🏼 I'm open to collaborations and meeting passionate people
 
-👨‍💻 Building [Versuno](https://versuno.ai) - the all-in-one AI Assets management platform to supercharge your AI workflows
-
-🔎 Founder of VersunoAI and GenAI Educator & Content Creator at AI Advantage 
+👨‍💻 Building [Versuno](https://versuno.ai) - the prompt & context engineering platform for devs and tech founders
 
 😆 Fun Fact: I am on a mission to complete 1000 pull-ups in less than 24 hours
 
